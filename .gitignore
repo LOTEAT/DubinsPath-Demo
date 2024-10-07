@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.catkin_workspace
+build
+devel
+.vscode
